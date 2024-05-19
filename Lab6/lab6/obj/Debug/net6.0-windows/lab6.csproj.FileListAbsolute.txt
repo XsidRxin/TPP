@@ -1,0 +1,62 @@
+C:\Users\Mikhail\source\repos\lab6\lab6\bin\Debug\net6.0-windows\lab6.exe
+C:\Users\Mikhail\source\repos\lab6\lab6\bin\Debug\net6.0-windows\lab6.deps.json
+C:\Users\Mikhail\source\repos\lab6\lab6\bin\Debug\net6.0-windows\lab6.runtimeconfig.json
+C:\Users\Mikhail\source\repos\lab6\lab6\bin\Debug\net6.0-windows\lab6.dll
+C:\Users\Mikhail\source\repos\lab6\lab6\bin\Debug\net6.0-windows\lab6.pdb
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\lab6_MarkupCompile.cache
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\lab6_MarkupCompile.lref
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\lab6.g.resources
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\lab6.AssemblyInfoInputs.cache
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\lab6.AssemblyInfo.cs
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\lab6.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\lab6.dll
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\refint\lab6.dll
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\lab6.pdb
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\lab6.genruntimeconfig.cache
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\ref\lab6.dll
+C:\Users\Mikhail\source\repos\lab6\lab6\bin\Debug\net6.0-windows\policy.2.0.taglib-sharp.dll
+C:\Users\Mikhail\source\repos\lab6\lab6\bin\Debug\net6.0-windows\taglib-sharp.dll
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\lab6.csproj.AssemblyReference.cache
+C:\Users\Mikhail\source\repos\lab6\lab6\obj\Debug\net6.0-windows\lab6.csproj.CopyComplete
+C:\Users\Mikhail\source\repos\lab6\lab6\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\Mikhail\source\repos\lab6\lab6\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\Mikhail\source\repos\lab6\lab6\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\Mikhail\source\repos\lab6\lab6\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\Mikhail\source\repos\lab6\lab6\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\Mikhail\source\repos\lab6\lab6\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\Mikhail\source\repos\lab6\lab6\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\bin\Debug\net6.0-windows\lab6.exe
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\bin\Debug\net6.0-windows\lab6.deps.json
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\bin\Debug\net6.0-windows\lab6.runtimeconfig.json
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\bin\Debug\net6.0-windows\lab6.dll
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\bin\Debug\net6.0-windows\lab6.pdb
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\bin\Debug\net6.0-windows\policy.2.0.taglib-sharp.dll
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\bin\Debug\net6.0-windows\taglib-sharp.dll
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\lab6.csproj.AssemblyReference.cache
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\lab6_MarkupCompile.cache
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\lab6_MarkupCompile.lref
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\lab6.g.resources
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\lab6.AssemblyInfoInputs.cache
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\lab6.AssemblyInfo.cs
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\lab6.csproj.CoreCompileInputs.cache
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\lab6.csproj.Up2Date
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\lab6.dll
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\refint\lab6.dll
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\lab6.pdb
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\lab6.genruntimeconfig.cache
+C:\Users\mixai\labs\prog\1 sem\lab6\lab6\obj\Debug\net6.0-windows\ref\lab6.dll

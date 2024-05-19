@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mixai\\labs\\prog\\1 sem\\lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDD2939-00B2-4499-AA32-466B23FBDDE4}|lab6\\lab6.csproj|c:\\users\\mixai\\labs\\prog\\1 sem\\lab6\\lab6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBDD2939-00B2-4499-AA32-466B23FBDDE4}|lab6\\lab6.csproj|solutionrelative:lab6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBDD2939-00B2-4499-AA32-466B23FBDDE4}|lab6\\lab6.csproj|c:\\users\\mixai\\labs\\prog\\1 sem\\lab6\\lab6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BBDD2939-00B2-4499-AA32-466B23FBDDE4}|lab6\\lab6.csproj|solutionrelative:lab6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\mixai\\labs\\prog\\1 sem\\lab6\\lab6\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lab6\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\mixai\\labs\\prog\\1 sem\\lab6\\lab6\\MainWindow.xaml",
+              "RelativeToolTip": "lab6\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-14T07:33:24.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mixai\\labs\\prog\\1 sem\\lab6\\lab6\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab6\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\mixai\\labs\\prog\\1 sem\\lab6\\lab6\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lab6\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAuwFgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:33:24.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

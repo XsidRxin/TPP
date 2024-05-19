@@ -1,0 +1,84 @@
+﻿<Window x:Class="Lab3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="12*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <TextBlock x:Name ="TextBox"  Grid.Row="0" Text="" FontSize="55" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" TextAlignment="Right" Padding="0"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <RadioButton Grid.Column="0" Content="Вкл. доп. элементы" Checked="OnBtn"/>
+            <RadioButton Grid.Column="1" Content="Выкл. доп. элементы" Checked="OffBtn"/>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition x:Name="ColumnToHide" Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Button x:Name="ButtonOp" Grid.Row="0" Grid.Column="0" Content="(" FontSize="22" Click="Button_Click"/>
+                <Button x:Name="ButtonCl" Grid.Row="0" Grid.Column="1" Content=")" FontSize="22" Click="Button_Click"/>
+                <Button x:Name="ButtonC" Grid.Row="0" Grid.Column="2" Content="BackSpace" FontSize="22" Click="Button_Click"/>
+                <Button x:Name="Button" Grid.Row="0" Grid.Column="3" Content="C" FontSize="22" Click="Button_Click"/>
+
+                <Button x:Name="Button1" Grid.Row="1" Grid.Column="0" Content="1" FontSize="22" Click="Button_Click"/>
+                <Button x:Name="Button2" Grid.Row="1" Grid.Column="1" Content="2" FontSize="22" Click="Button_Click"/>
+                <Button x:Name="Button3" Grid.Row="1" Grid.Column="2" Content="3" FontSize="22" Click="Button_Click"/>
+                <Button x:Name="ButtonDev" Grid.Row="1" Grid.Column="3" Content="/" FontSize="22" Click="Button_Click"/>
+
+                <Button x:Name="Button4" Grid.Row="2" Grid.Column="0" Content="4" FontSize="22" Click="Button_Click"/>
+                <Button x:Name="Button5" Grid.Row="2" Grid.Column="1" Content="5" FontSize="22" Click="Button_Click"/>
+                <Button x:Name="Button6" Grid.Row="2" Grid.Column="2" Content="6" FontSize="22" Click="Button_Click"/>
+                <Button x:Name="ButtonMult" Grid.Row="2" Grid.Column="4" Content="*" FontSize="22" Click="Button_Click"/>
+
+                <Button x:Name="Button7" Grid.Row="3" Grid.Column="0" Content="7" FontSize="22" Click="Button_Click"/>
+                <Button x:Name="Button8" Grid.Row="3" Grid.Column="1" Content="8" FontSize="22" Click="Button_Click"/>
+                <Button x:Name="Button9" Grid.Row="3" Grid.Column="2" Content="9" FontSize="22" Click="Button_Click"/>
+                <Button x:Name="ButtonSub" Grid.Row="3" Grid.Column="4" Content="-" FontSize="22" Click="Button_Click"/>
+
+                <Button x:Name="ButtonPoint" Grid.Row="4" Grid.Column="0" Content="." FontSize="22" Click="Button_Click"/>
+                <Button x:Name="Button0" Grid.Row="4" Grid.Column="1" Content="0" FontSize="22" Click="Button_Click"/>
+                <Button x:Name="ButtonEq" Grid.Row="4" Grid.Column="2" Content="=" FontSize="22" Click="Button_Click"/>
+                <Button x:Name="ButtonPlus" Grid.Row="4" Grid.Column="3" Content="+" FontSize="22" Click="Button_Click"/>
+            </Grid>
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="9*"/>
+                </Grid.RowDefinitions>
+                <CheckBox x:Name="CheckRecording" Grid.Row="0" Content="Вкл/Выкл запись" />
+                <Button x:Name="LogClearBtn" Grid.Row="1" Content="Clear" FontSize="22" Click="LogClearBtn_click"/>
+                <ListBox x:Name="LogList" Grid.Row="2"/>
+            </Grid>
+            </Grid>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,84 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#0E9594"/>
+            <Setter Property="Foreground" Value="#032829"/>
+            <Setter Property="FontWeight" Value="500"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Margin" Value="1"/>
+            <Setter Property="Template">
+                
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border CornerRadius="4" Background="#0E9594" BorderBrush="#0E9594" BorderThickness="0">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.Background>
+            <SolidColorBrush Color="#032829"/>
+            
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <TextBox x:Name ="TextBox"  Grid.Row="0" Text="" FontSize="55" Foreground="#D5DDD0" BorderThickness="0" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" TextAlignment="Right" Padding="0" Background="#032829"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <!-- Определение строк и столбцов вложенной сетки для кнопок -->
+            <Grid.RowDefinitions>
+                
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="ButtonOp" Grid.Row="0" Grid.Column="0" Content="(" FontSize="22" Click="Button_Click"/>
+            <Button x:Name="ButtonCl" Grid.Row="0" Grid.Column="1" Content=")" FontSize="22" Click="Button_Click"/>
+            <Button x:Name="ButtonC" Grid.Row="0" Grid.Column="2" Content="BackSpace" FontSize="22" Click="Button_Click"/>
+            <Button x:Name="Button" Grid.Row="0" Grid.Column="3" Content="C" FontSize="22" Click="Button_Click"/>
+
+            <Button x:Name="Button1" Grid.Row="1" Grid.Column="0" Content="1" FontSize="22" Click="Button_Click"/>
+            <Button x:Name="Button2" Grid.Row="1" Grid.Column="1" Content="2" FontSize="22" Click="Button_Click"/>
+            <Button x:Name="Button3" Grid.Row="1" Grid.Column="2" Content="3" FontSize="22" Click="Button_Click"/>
+            <Button x:Name="ButtonDev" Grid.Row="1" Grid.Column="3" Content="/" FontSize="22" Click="Button_Click"/>
+
+            <Button x:Name="Button4" Grid.Row="2" Grid.Column="0" Content="4" FontSize="22" Click="Button_Click"/>
+            <Button x:Name="Button5" Grid.Row="2" Grid.Column="1" Content="5" FontSize="22" Click="Button_Click"/>
+            <Button x:Name="Button6" Grid.Row="2" Grid.Column="2" Content="6" FontSize="22" Click="Button_Click"/>
+            <Button x:Name="ButtonMult" Grid.Row="2" Grid.Column="4" Content="*" FontSize="22" Click="Button_Click"/>
+
+            <Button x:Name="Button7" Grid.Row="3" Grid.Column="0" Content="7" FontSize="22" Click="Button_Click"/>
+            <Button x:Name="Button8" Grid.Row="3" Grid.Column="1" Content="8" FontSize="22" Click="Button_Click"/>
+            <Button x:Name="Button9" Grid.Row="3" Grid.Column="2" Content="9" FontSize="22" Click="Button_Click"/>
+            <Button x:Name="ButtonSub" Grid.Row="3" Grid.Column="4" Content="-" FontSize="22" Click="Button_Click"/>
+
+            <Button x:Name="ButtonPoint" Grid.Row="4" Grid.Column="0" Content="." FontSize="22" Click="Button_Click"/>
+            <Button x:Name="Button0" Grid.Row="4" Grid.Column="1" Content="0" FontSize="22" Click="Button_Click"/>
+            <Button x:Name="ButtonEq" Grid.Row="4" Grid.Column="2" Content="=" FontSize="22" Click="Button_Click"/>
+            <Button x:Name="ButtonPlus" Grid.Row="4" Grid.Column="3" Content="+" FontSize="22" Click="Button_Click"/>
+
+        </Grid>
+    </Grid>
+</Window>

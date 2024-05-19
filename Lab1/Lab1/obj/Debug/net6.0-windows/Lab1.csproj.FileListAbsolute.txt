@@ -1,0 +1,40 @@
+C:\Users\Mikhail\source\repos\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.exe
+C:\Users\Mikhail\source\repos\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.deps.json
+C:\Users\Mikhail\source\repos\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.runtimeconfig.json
+C:\Users\Mikhail\source\repos\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.dll
+C:\Users\Mikhail\source\repos\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.pdb
+C:\Users\Mikhail\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Mikhail\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Mikhail\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1_MarkupCompile.cache
+C:\Users\Mikhail\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1_MarkupCompile.lref
+C:\Users\Mikhail\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Mikhail\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.g.resources
+C:\Users\Mikhail\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.AssemblyInfoInputs.cache
+C:\Users\Mikhail\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.AssemblyInfo.cs
+C:\Users\Mikhail\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.dll
+C:\Users\Mikhail\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\refint\Lab1.dll
+C:\Users\Mikhail\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.pdb
+C:\Users\Mikhail\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.genruntimeconfig.cache
+C:\Users\Mikhail\source\repos\Lab1\Lab1\obj\Debug\net6.0-windows\ref\Lab1.dll
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.exe
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.deps.json
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.runtimeconfig.json
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.dll
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.pdb
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1_MarkupCompile.cache
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1_MarkupCompile.lref
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.g.resources
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.AssemblyInfoInputs.cache
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.AssemblyInfo.cs
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.dll
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\obj\Debug\net6.0-windows\refint\Lab1.dll
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.pdb
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.genruntimeconfig.cache
+C:\Users\mixai\labs\Прога\1 сем\Lab1\Lab1\obj\Debug\net6.0-windows\ref\Lab1.dll
